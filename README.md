@@ -1,5 +1,7 @@
 # HERMES
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
 Bybit USDT 무기한 선물 멀티코인 자동매매 시스템.
 4H 레짐 판독 + 1H 추세 풀백 진입 + 실시간 트레일링 스탑. 개인 프로젝트로 설계부터 백테스트, 클라우드 운영까지 단독 수행했다.
 
