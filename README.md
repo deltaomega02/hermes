@@ -138,7 +138,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-GCP e2-small(서울 리전)에서 24시간 운영. `nohup python3 -u main.py > ./logs/output.log 2>&1 &`
+GCP e2-small(서울 리전)에서 24시간 운영했다 (현재는 후속 세대로 이전). `nohup python3 -u main.py > ./logs/output.log 2>&1 &`
 
 ## 프로젝트 구조
 
